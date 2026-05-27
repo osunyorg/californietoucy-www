@@ -2,10 +2,10 @@
 
 fr:
   title: >-
-    www
+    La Californie
   contentDir: content/fr
-  languageCode: fr
-  languageName: Français
+  locale: fr
+  label: Français
   buildFuture: true
   params:
     contact_details:
